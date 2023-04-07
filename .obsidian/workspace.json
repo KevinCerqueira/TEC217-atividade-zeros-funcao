@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "2f7597a1434e6522",
+    "type": "split",
+    "children": [
+      {
+        "id": "07cf13bebce4ba3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e36387d39101f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEC 217 – Métodos Computacionais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab5690df86a02b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q1_gauss_jordan_KevinCerqueiraGomes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51a8f5e4ddbc627d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atividade de Implementação – Sistemas Lineares (Solução Numérica).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80cf7d06b69d8c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "9224391ba14b3c12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3cac9b98700b19d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8a5275629182a88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "571cf4be3dec1798",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4292d330594955d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "56528a93ce7ad21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eadacd95c816db1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atividade de Implementação – Sistemas Lineares (Solução Numérica).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cfff369b59336b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atividade de Implementação – Sistemas Lineares (Solução Numérica).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae680a0f4cb4983b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc0b929e9401e28e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atividade de Implementação – Sistemas Lineares (Solução Numérica).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "51a8f5e4ddbc627d",
+  "lastOpenFiles": [
+    "Q2_console_KevinCerqueiraGomes.png",
+    "Q1_console_KevinCerqueiraGomes.png",
+    "Atividade de Implementação – Sistemas Lineares (Solução Numérica).md",
+    "Q1_gauss_jordan_KevinCerqueiraGomes.md",
+    "TEC 217 – Métodos Computacionais.md",
+    "Sem título.md",
+    "imagens_console_AurelioBarreto_KevinCerqueira_GabrielYago.zip",
+    "scripts_AurelioBarreto_KevinCerqueira_GabrielYago.zip",
+    "saida_console_AurelioBarreto_KevinCerqueira_GabrielYago.pdf",
+    "Q4_secante.m",
+    "Q4_console.png",
+    "volume.m",
+    "Q4_volume.m",
+    "README.pdf"
+  ]
+}
